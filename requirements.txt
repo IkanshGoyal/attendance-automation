@@ -3,6 +3,3 @@ numpy
 pandas
 opencv-python
 face_recognition
-json
-os
-datetime
