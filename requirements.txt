@@ -3,3 +3,4 @@ numpy
 pandas
 opencv-python==4.5.3.56
 face_recognition
+Pillow==8.3.2
